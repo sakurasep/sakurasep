@@ -12,6 +12,6 @@ jobs:
   update-social:
     runs-on: ubuntu-latest
     steps:
-      - uses: sakurasep/sakurasep@master
+      - uses: sakurasep/sakurasep@main
         with:
           blog_rss_link: https://blog.sakurasep.site/atom.xml
