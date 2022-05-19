@@ -8,7 +8,9 @@
 
 ## 我的寄语
 
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=32&color=F79248&center=true&vCenter=true&lines=New+Dream+New+Start;%E6%96%B0%E7%9A%84%E6%A2%A6%E6%83%B3+%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=32&color=F79248&center=true&vCenter=true&lines=New+Dream+New+Start;%E6%96%B0%E7%9A%84%E6%A2%A6%E6%83%B3+%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B" />
+</div>
 
 ## Github状态
 
