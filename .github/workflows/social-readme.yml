@@ -15,3 +15,4 @@ jobs:
       - uses: zylele/social-readme@master
         with:
           blog_rss_link: https://blog.sakurasep.site/atom.xml
+          douban_name: sakurasep
