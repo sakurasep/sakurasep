@@ -38,12 +38,9 @@
 </div>
 
 ### 我的博客
-<!-- START_SECTION:blog -->
-<!-- END_SECTION:blog -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-### 豆瓣
-<!-- START_SECTION:douban -->
-<!-- END_SECTION:douban -->
 
 <h3 align="left">与我联系:</h3>
 <p align="left">
