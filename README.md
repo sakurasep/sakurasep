@@ -38,8 +38,8 @@
 </div>
 
 ### 我的博客
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- START_SECTION:blog -->
+<!-- END_SECTION:blog -->
 
 
 <h3 align="left">与我联系:</h3>
