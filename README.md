@@ -37,14 +37,6 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=sakurasep&theme=minimal" />
 </div>
 
-### 我的博客
-<!-- START_SECTION:blog -->
-<!-- END_SECTION:blog -->
-
-### douban
-<!-- START_SECTION:douban -->
-<!-- END_SECTION:douban -->
-
 <h3 align="left">与我联系:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/上杉九月" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="上杉九月" height="30" width="40" /></a>
