@@ -9,12 +9,9 @@ on:
       - main
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update-social:
     runs-on: ubuntu-latest
     steps:
-      - uses: 74th/workflow-permission-action@1.0.0
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: zylele/social-readme@master
         with:
-          feed_list: 'https://blog.sakurasep.site/atom.xml'
+          blog_rss_link: https://blog.sakurasep.site/atom.xml
