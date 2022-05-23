@@ -41,6 +41,9 @@
 <!-- START_SECTION:blog -->
 <!-- END_SECTION:blog -->
 
+### douban
+<!-- START_SECTION:douban -->
+<!-- END_SECTION:douban -->
 
 <h3 align="left">与我联系:</h3>
 <p align="left">
