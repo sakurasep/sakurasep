@@ -34,7 +34,7 @@
 </div>
 
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sakurasep" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=sakurasep&theme=minimal" />
 </div>
 
 ### Blogs posts
