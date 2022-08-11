@@ -20,7 +20,7 @@
 
 - 📫 我的邮箱是 **sakurasep@qq.com**
 
-- 📄 想要了解我 [https://blog.sakurasep.site/about/](https://blog.sakurasep.site/about/)
+- 📄 想要了解我 [https://say.sakurasep.top/](https://say.sakurasep.top/)
 
 - ⚡ 目前，沉迷于我的世界(Minecraft) **诸神匠心整合包**
 
