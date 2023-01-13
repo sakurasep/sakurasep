@@ -26,15 +26,12 @@
 
 <div align="center">
   <span>  </span>
-    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=sakurasep" />
+    <img height="170px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sakurasep" />
    <span>  </span>
-    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakurasep&layout=compact&langs_count=8" />
+    <img height="170px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sakurasep&layout=compact&langs_count=8" />
   <span>  </span>
 </div>
 
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=sakurasep&theme=minimal" />
-</div>
 
 <h3 align="left">与我联系:</h3>
 <p align="left">
